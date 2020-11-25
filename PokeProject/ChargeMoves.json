@@ -1,0 +1,2726 @@
+[
+  {
+    "templateId" : "V0013_MOVE_WRAP",
+    "data" : {
+      "templateId" : "V0013_MOVE_WRAP",
+      "move" : {
+        "movementId" : "WRAP",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 2050,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0014_MOVE_HYPER_BEAM",
+    "data" : {
+      "templateId" : "V0014_MOVE_HYPER_BEAM",
+      "move" : {
+        "movementId" : "HYPER_BEAM",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 150,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.15,
+        "durationMs" : 3800,
+        "damageWindowStartMs" : 3300,
+        "damageWindowEndMs" : 3600,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0016_MOVE_DARK_PULSE",
+    "data" : {
+      "templateId" : "V0016_MOVE_DARK_PULSE",
+      "move" : {
+        "movementId" : "DARK_PULSE",
+        "pokemonType" : "POKEMON_TYPE_DARK",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 3000,
+        "damageWindowStartMs" : 1400,
+        "damageWindowEndMs" : 2300,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0018_MOVE_SLUDGE",
+    "data" : {
+      "templateId" : "V0018_MOVE_SLUDGE",
+      "move" : {
+        "movementId" : "SLUDGE",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 2100,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 1550,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0020_MOVE_VICE_GRIP",
+    "data" : {
+      "templateId" : "V0020_MOVE_VICE_GRIP",
+      "move" : {
+        "movementId" : "VICE_GRIP",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 35,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.055,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1100,
+        "damageWindowEndMs" : 1500,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0021_MOVE_FLAME_WHEEL",
+    "data" : {
+      "templateId" : "V0021_MOVE_FLAME_WHEEL",
+      "move" : {
+        "movementId" : "FLAME_WHEEL",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 2100,
+        "damageWindowEndMs" : 2400,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0022_MOVE_MEGAHORN",
+    "data" : {
+      "templateId" : "V0022_MOVE_MEGAHORN",
+      "move" : {
+        "movementId" : "MEGAHORN",
+        "pokemonType" : "POKEMON_TYPE_BUG",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.12,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0024_MOVE_FLAMETHROWER",
+    "data" : {
+      "templateId" : "V0024_MOVE_FLAMETHROWER",
+      "move" : {
+        "movementId" : "FLAMETHROWER",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 1700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0026_MOVE_DIG",
+    "data" : {
+      "templateId" : "V0026_MOVE_DIG",
+      "move" : {
+        "movementId" : "DIG",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 4700,
+        "damageWindowStartMs" : 2800,
+        "damageWindowEndMs" : 4500,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0028_MOVE_CROSS_CHOP",
+    "data" : {
+      "templateId" : "V0028_MOVE_CROSS_CHOP",
+      "move" : {
+        "movementId" : "CROSS_CHOP",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.1,
+        "durationMs" : 1500,
+        "damageWindowStartMs" : 800,
+        "damageWindowEndMs" : 1200,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0030_MOVE_PSYBEAM",
+    "data" : {
+      "templateId" : "V0030_MOVE_PSYBEAM",
+      "move" : {
+        "movementId" : "PSYBEAM",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 3200,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0031_MOVE_EARTHQUAKE",
+    "data" : {
+      "templateId" : "V0031_MOVE_EARTHQUAKE",
+      "move" : {
+        "movementId" : "EARTHQUAKE",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 140,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.1,
+        "durationMs" : 3600,
+        "damageWindowStartMs" : 2700,
+        "damageWindowEndMs" : 3500,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0032_MOVE_STONE_EDGE",
+    "data" : {
+      "templateId" : "V0032_MOVE_STONE_EDGE",
+      "move" : {
+        "movementId" : "STONE_EDGE",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.5,
+        "staminaLossScalar" : 0.1,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0033_MOVE_ICE_PUNCH",
+    "data" : {
+      "templateId" : "V0033_MOVE_ICE_PUNCH",
+      "move" : {
+        "movementId" : "ICE_PUNCH",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0034_MOVE_HEART_STAMP",
+    "data" : {
+      "templateId" : "V0034_MOVE_HEART_STAMP",
+      "move" : {
+        "movementId" : "HEART_STAMP",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1100,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0035_MOVE_DISCHARGE",
+    "data" : {
+      "templateId" : "V0035_MOVE_DISCHARGE",
+      "move" : {
+        "movementId" : "DISCHARGE",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 65,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2500,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0036_MOVE_FLASH_CANNON",
+    "data" : {
+      "templateId" : "V0036_MOVE_FLASH_CANNON",
+      "move" : {
+        "movementId" : "FLASH_CANNON",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1600,
+        "damageWindowEndMs" : 2500,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0038_MOVE_DRILL_PECK",
+    "data" : {
+      "templateId" : "V0038_MOVE_DRILL_PECK",
+      "move" : {
+        "movementId" : "DRILL_PECK",
+        "pokemonType" : "POKEMON_TYPE_FLYING",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0039_MOVE_ICE_BEAM",
+    "data" : {
+      "templateId" : "V0039_MOVE_ICE_BEAM",
+      "move" : {
+        "movementId" : "ICE_BEAM",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 3300,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 2800,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0040_MOVE_BLIZZARD",
+    "data" : {
+      "templateId" : "V0040_MOVE_BLIZZARD",
+      "move" : {
+        "movementId" : "BLIZZARD",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.11,
+        "durationMs" : 3100,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 2900,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0042_MOVE_HEAT_WAVE",
+    "data" : {
+      "templateId" : "V0042_MOVE_HEAT_WAVE",
+      "move" : {
+        "movementId" : "HEAT_WAVE",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 95,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.095,
+        "durationMs" : 3000,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2800,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0045_MOVE_AERIAL_ACE",
+    "data" : {
+      "templateId" : "V0045_MOVE_AERIAL_ACE",
+      "move" : {
+        "movementId" : "AERIAL_ACE",
+        "pokemonType" : "POKEMON_TYPE_FLYING",
+        "power" : 55,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2400,
+        "damageWindowStartMs" : 1900,
+        "damageWindowEndMs" : 2200,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0046_MOVE_DRILL_RUN",
+    "data" : {
+      "templateId" : "V0046_MOVE_DRILL_RUN",
+      "move" : {
+        "movementId" : "DRILL_RUN",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2800,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0047_MOVE_PETAL_BLIZZARD",
+    "data" : {
+      "templateId" : "V0047_MOVE_PETAL_BLIZZARD",
+      "move" : {
+        "movementId" : "PETAL_BLIZZARD",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2300,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0048_MOVE_MEGA_DRAIN",
+    "data" : {
+      "templateId" : "V0048_MOVE_MEGA_DRAIN",
+      "move" : {
+        "movementId" : "MEGA_DRAIN",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 25,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "healScalar" : 0.5,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 950,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0049_MOVE_BUG_BUZZ",
+    "data" : {
+      "templateId" : "V0049_MOVE_BUG_BUZZ",
+      "move" : {
+        "movementId" : "BUG_BUZZ",
+        "pokemonType" : "POKEMON_TYPE_BUG",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 3700,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 3100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0050_MOVE_POISON_FANG",
+    "data" : {
+      "templateId" : "V0050_MOVE_POISON_FANG",
+      "move" : {
+        "movementId" : "POISON_FANG",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 35,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.05,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 900,
+        "damageWindowEndMs" : 1400,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0051_MOVE_NIGHT_SLASH",
+    "data" : {
+      "templateId" : "V0051_MOVE_NIGHT_SLASH",
+      "move" : {
+        "movementId" : "NIGHT_SLASH",
+        "pokemonType" : "POKEMON_TYPE_DARK",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.07,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0053_MOVE_BUBBLE_BEAM",
+    "data" : {
+      "templateId" : "V0053_MOVE_BUBBLE_BEAM",
+      "move" : {
+        "movementId" : "BUBBLE_BEAM",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1450,
+        "damageWindowEndMs" : 1700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0054_MOVE_SUBMISSION",
+    "data" : {
+      "templateId" : "V0054_MOVE_SUBMISSION",
+      "move" : {
+        "movementId" : "SUBMISSION",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0056_MOVE_LOW_SWEEP",
+    "data" : {
+      "templateId" : "V0056_MOVE_LOW_SWEEP",
+      "move" : {
+        "movementId" : "LOW_SWEEP",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 1650,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0057_MOVE_AQUA_JET",
+    "data" : {
+      "templateId" : "V0057_MOVE_AQUA_JET",
+      "move" : {
+        "movementId" : "AQUA_JET",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0058_MOVE_AQUA_TAIL",
+    "data" : {
+      "templateId" : "V0058_MOVE_AQUA_TAIL",
+      "move" : {
+        "movementId" : "AQUA_TAIL",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 1650,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0059_MOVE_SEED_BOMB",
+    "data" : {
+      "templateId" : "V0059_MOVE_SEED_BOMB",
+      "move" : {
+        "movementId" : "SEED_BOMB",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 55,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2100,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0060_MOVE_PSYSHOCK",
+    "data" : {
+      "templateId" : "V0060_MOVE_PSYSHOCK",
+      "move" : {
+        "movementId" : "PSYSHOCK",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 65,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0062_MOVE_ANCIENT_POWER",
+    "data" : {
+      "templateId" : "V0062_MOVE_ANCIENT_POWER",
+      "move" : {
+        "movementId" : "ANCIENT_POWER",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 3500,
+        "damageWindowStartMs" : 2850,
+        "damageWindowEndMs" : 3100,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0063_MOVE_ROCK_TOMB",
+    "data" : {
+      "templateId" : "V0063_MOVE_ROCK_TOMB",
+      "move" : {
+        "movementId" : "ROCK_TOMB",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 3200,
+        "damageWindowStartMs" : 2250,
+        "damageWindowEndMs" : 3000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0064_MOVE_ROCK_SLIDE",
+    "data" : {
+      "templateId" : "V0064_MOVE_ROCK_SLIDE",
+      "move" : {
+        "movementId" : "ROCK_SLIDE",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0065_MOVE_POWER_GEM",
+    "data" : {
+      "templateId" : "V0065_MOVE_POWER_GEM",
+      "move" : {
+        "movementId" : "POWER_GEM",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 1950,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0066_MOVE_SHADOW_SNEAK",
+    "data" : {
+      "templateId" : "V0066_MOVE_SHADOW_SNEAK",
+      "move" : {
+        "movementId" : "SHADOW_SNEAK",
+        "pokemonType" : "POKEMON_TYPE_GHOST",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 2200,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0067_MOVE_SHADOW_PUNCH",
+    "data" : {
+      "templateId" : "V0067_MOVE_SHADOW_PUNCH",
+      "move" : {
+        "movementId" : "SHADOW_PUNCH",
+        "pokemonType" : "POKEMON_TYPE_GHOST",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 1500,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0069_MOVE_OMINOUS_WIND",
+    "data" : {
+      "templateId" : "V0069_MOVE_OMINOUS_WIND",
+      "move" : {
+        "movementId" : "OMINOUS_WIND",
+        "pokemonType" : "POKEMON_TYPE_GHOST",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1850,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0070_MOVE_SHADOW_BALL",
+    "data" : {
+      "templateId" : "V0070_MOVE_SHADOW_BALL",
+      "move" : {
+        "movementId" : "SHADOW_BALL",
+        "pokemonType" : "POKEMON_TYPE_GHOST",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 3000,
+        "damageWindowStartMs" : 2400,
+        "damageWindowEndMs" : 2800,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0072_MOVE_MAGNET_BOMB",
+    "data" : {
+      "templateId" : "V0072_MOVE_MAGNET_BOMB",
+      "move" : {
+        "movementId" : "MAGNET_BOMB",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2800,
+        "damageWindowStartMs" : 2200,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0074_MOVE_IRON_HEAD",
+    "data" : {
+      "templateId" : "V0074_MOVE_IRON_HEAD",
+      "move" : {
+        "movementId" : "IRON_HEAD",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 1700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0075_MOVE_PARABOLIC_CHARGE",
+    "data" : {
+      "templateId" : "V0075_MOVE_PARABOLIC_CHARGE",
+      "move" : {
+        "movementId" : "PARABOLIC_CHARGE",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 25,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "healScalar" : 0.5,
+        "staminaLossScalar" : 0.05,
+        "durationMs" : 2800,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 2400,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0077_MOVE_THUNDER_PUNCH",
+    "data" : {
+      "templateId" : "V0077_MOVE_THUNDER_PUNCH",
+      "move" : {
+        "movementId" : "THUNDER_PUNCH",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 1800,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 1550,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0078_MOVE_THUNDER",
+    "data" : {
+      "templateId" : "V0078_MOVE_THUNDER",
+      "move" : {
+        "movementId" : "THUNDER",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.11,
+        "durationMs" : 2400,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 2200,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0079_MOVE_THUNDERBOLT",
+    "data" : {
+      "templateId" : "V0079_MOVE_THUNDERBOLT",
+      "move" : {
+        "movementId" : "THUNDERBOLT",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 2500,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2300,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0080_MOVE_TWISTER",
+    "data" : {
+      "templateId" : "V0080_MOVE_TWISTER",
+      "move" : {
+        "movementId" : "TWISTER",
+        "pokemonType" : "POKEMON_TYPE_DRAGON",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2800,
+        "damageWindowStartMs" : 950,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0082_MOVE_DRAGON_PULSE",
+    "data" : {
+      "templateId" : "V0082_MOVE_DRAGON_PULSE",
+      "move" : {
+        "movementId" : "DRAGON_PULSE",
+        "pokemonType" : "POKEMON_TYPE_DRAGON",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.085,
+        "durationMs" : 3600,
+        "damageWindowStartMs" : 2150,
+        "damageWindowEndMs" : 3300,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0083_MOVE_DRAGON_CLAW",
+    "data" : {
+      "templateId" : "V0083_MOVE_DRAGON_CLAW",
+      "move" : {
+        "movementId" : "DRAGON_CLAW",
+        "pokemonType" : "POKEMON_TYPE_DRAGON",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1100,
+        "damageWindowEndMs" : 1300,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0084_MOVE_DISARMING_VOICE",
+    "data" : {
+      "templateId" : "V0084_MOVE_DISARMING_VOICE",
+      "move" : {
+        "movementId" : "DISARMING_VOICE",
+        "pokemonType" : "POKEMON_TYPE_FAIRY",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3900,
+        "damageWindowStartMs" : 3200,
+        "damageWindowEndMs" : 3500,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0085_MOVE_DRAINING_KISS",
+    "data" : {
+      "templateId" : "V0085_MOVE_DRAINING_KISS",
+      "move" : {
+        "movementId" : "DRAINING_KISS",
+        "pokemonType" : "POKEMON_TYPE_FAIRY",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "healScalar" : 1,
+        "staminaLossScalar" : 0.05,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 1300,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0086_MOVE_DAZZLING_GLEAM",
+    "data" : {
+      "templateId" : "V0086_MOVE_DAZZLING_GLEAM",
+      "move" : {
+        "movementId" : "DAZZLING_GLEAM",
+        "pokemonType" : "POKEMON_TYPE_FAIRY",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 3500,
+        "damageWindowStartMs" : 2100,
+        "damageWindowEndMs" : 3300,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0087_MOVE_MOONBLAST",
+    "data" : {
+      "templateId" : "V0087_MOVE_MOONBLAST",
+      "move" : {
+        "movementId" : "MOONBLAST",
+        "pokemonType" : "POKEMON_TYPE_FAIRY",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.095,
+        "durationMs" : 3900,
+        "damageWindowStartMs" : 2200,
+        "damageWindowEndMs" : 3700,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0088_MOVE_PLAY_ROUGH",
+    "data" : {
+      "templateId" : "V0088_MOVE_PLAY_ROUGH",
+      "move" : {
+        "movementId" : "PLAY_ROUGH",
+        "pokemonType" : "POKEMON_TYPE_FAIRY",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.1,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0089_MOVE_CROSS_POISON",
+    "data" : {
+      "templateId" : "V0089_MOVE_CROSS_POISON",
+      "move" : {
+        "movementId" : "CROSS_POISON",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.07,
+        "durationMs" : 1500,
+        "damageWindowStartMs" : 900,
+        "damageWindowEndMs" : 1300,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0090_MOVE_SLUDGE_BOMB",
+    "data" : {
+      "templateId" : "V0090_MOVE_SLUDGE_BOMB",
+      "move" : {
+        "movementId" : "SLUDGE_BOMB",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1100,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0091_MOVE_SLUDGE_WAVE",
+    "data" : {
+      "templateId" : "V0091_MOVE_SLUDGE_WAVE",
+      "move" : {
+        "movementId" : "SLUDGE_WAVE",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.095,
+        "durationMs" : 3200,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 3000,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0092_MOVE_GUNK_SHOT",
+    "data" : {
+      "templateId" : "V0092_MOVE_GUNK_SHOT",
+      "move" : {
+        "movementId" : "GUNK_SHOT",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.12,
+        "durationMs" : 3100,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0094_MOVE_BONE_CLUB",
+    "data" : {
+      "templateId" : "V0094_MOVE_BONE_CLUB",
+      "move" : {
+        "movementId" : "BONE_CLUB",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 1400,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0095_MOVE_BULLDOZE",
+    "data" : {
+      "templateId" : "V0095_MOVE_BULLDOZE",
+      "move" : {
+        "movementId" : "BULLDOZE",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 3500,
+        "damageWindowStartMs" : 2600,
+        "damageWindowEndMs" : 3100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0096_MOVE_MUD_BOMB",
+    "data" : {
+      "templateId" : "V0096_MOVE_MUD_BOMB",
+      "move" : {
+        "movementId" : "MUD_BOMB",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 55,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0099_MOVE_SIGNAL_BEAM",
+    "data" : {
+      "templateId" : "V0099_MOVE_SIGNAL_BEAM",
+      "move" : {
+        "movementId" : "SIGNAL_BEAM",
+        "pokemonType" : "POKEMON_TYPE_BUG",
+        "power" : 75,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0100_MOVE_X_SCISSOR",
+    "data" : {
+      "templateId" : "V0100_MOVE_X_SCISSOR",
+      "move" : {
+        "movementId" : "X_SCISSOR",
+        "pokemonType" : "POKEMON_TYPE_BUG",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 1400,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0101_MOVE_FLAME_CHARGE",
+    "data" : {
+      "templateId" : "V0101_MOVE_FLAME_CHARGE",
+      "move" : {
+        "movementId" : "FLAME_CHARGE",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.05,
+        "durationMs" : 3800,
+        "damageWindowStartMs" : 2900,
+        "damageWindowEndMs" : 3450,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0102_MOVE_FLAME_BURST",
+    "data" : {
+      "templateId" : "V0102_MOVE_FLAME_BURST",
+      "move" : {
+        "movementId" : "FLAME_BURST",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.07,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0103_MOVE_FIRE_BLAST",
+    "data" : {
+      "templateId" : "V0103_MOVE_FIRE_BLAST",
+      "move" : {
+        "movementId" : "FIRE_BLAST",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 140,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.11,
+        "durationMs" : 4200,
+        "damageWindowStartMs" : 3100,
+        "damageWindowEndMs" : 3900,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0104_MOVE_BRINE",
+    "data" : {
+      "templateId" : "V0104_MOVE_BRINE",
+      "move" : {
+        "movementId" : "BRINE",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0105_MOVE_WATER_PULSE",
+    "data" : {
+      "templateId" : "V0105_MOVE_WATER_PULSE",
+      "move" : {
+        "movementId" : "WATER_PULSE",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 3200,
+        "damageWindowStartMs" : 2200,
+        "damageWindowEndMs" : 2900,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0106_MOVE_SCALD",
+    "data" : {
+      "templateId" : "V0106_MOVE_SCALD",
+      "move" : {
+        "movementId" : "SCALD",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 3700,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 3400,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0107_MOVE_HYDRO_PUMP",
+    "data" : {
+      "templateId" : "V0107_MOVE_HYDRO_PUMP",
+      "move" : {
+        "movementId" : "HYDRO_PUMP",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.11,
+        "durationMs" : 3300,
+        "damageWindowStartMs" : 900,
+        "damageWindowEndMs" : 3000,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0108_MOVE_PSYCHIC",
+    "data" : {
+      "templateId" : "V0108_MOVE_PSYCHIC",
+      "move" : {
+        "movementId" : "PSYCHIC",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 2800,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0109_MOVE_PSYSTRIKE",
+    "data" : {
+      "templateId" : "V0109_MOVE_PSYSTRIKE",
+      "move" : {
+        "movementId" : "PSYSTRIKE",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.1,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0111_MOVE_ICY_WIND",
+    "data" : {
+      "templateId" : "V0111_MOVE_ICY_WIND",
+      "move" : {
+        "movementId" : "ICY_WIND",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.055,
+        "durationMs" : 3300,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 2800,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0114_MOVE_GIGA_DRAIN",
+    "data" : {
+      "templateId" : "V0114_MOVE_GIGA_DRAIN",
+      "move" : {
+        "movementId" : "GIGA_DRAIN",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "healScalar" : 0.5,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 3900,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 2200,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0115_MOVE_FIRE_PUNCH",
+    "data" : {
+      "templateId" : "V0115_MOVE_FIRE_PUNCH",
+      "move" : {
+        "movementId" : "FIRE_PUNCH",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 55,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0116_MOVE_SOLAR_BEAM",
+    "data" : {
+      "templateId" : "V0116_MOVE_SOLAR_BEAM",
+      "move" : {
+        "movementId" : "SOLAR_BEAM",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 180,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.12,
+        "durationMs" : 4900,
+        "damageWindowStartMs" : 2700,
+        "damageWindowEndMs" : 4700,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0117_MOVE_LEAF_BLADE",
+    "data" : {
+      "templateId" : "V0117_MOVE_LEAF_BLADE",
+      "move" : {
+        "movementId" : "LEAF_BLADE",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.09,
+        "durationMs" : 2400,
+        "damageWindowStartMs" : 1250,
+        "damageWindowEndMs" : 2200,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0118_MOVE_POWER_WHIP",
+    "data" : {
+      "templateId" : "V0118_MOVE_POWER_WHIP",
+      "move" : {
+        "movementId" : "POWER_WHIP",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.12,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1250,
+        "damageWindowEndMs" : 2350,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0121_MOVE_AIR_CUTTER",
+    "data" : {
+      "templateId" : "V0121_MOVE_AIR_CUTTER",
+      "move" : {
+        "movementId" : "AIR_CUTTER",
+        "pokemonType" : "POKEMON_TYPE_FLYING",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2500,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0122_MOVE_HURRICANE",
+    "data" : {
+      "templateId" : "V0122_MOVE_HURRICANE",
+      "move" : {
+        "movementId" : "HURRICANE",
+        "pokemonType" : "POKEMON_TYPE_FLYING",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.11,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 2400,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0123_MOVE_BRICK_BREAK",
+    "data" : {
+      "templateId" : "V0123_MOVE_BRICK_BREAK",
+      "move" : {
+        "movementId" : "BRICK_BREAK",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.25,
+        "staminaLossScalar" : 0.075,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 800,
+        "damageWindowEndMs" : 1400,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0125_MOVE_SWIFT",
+    "data" : {
+      "templateId" : "V0125_MOVE_SWIFT",
+      "move" : {
+        "movementId" : "SWIFT",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2800,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0126_MOVE_HORN_ATTACK",
+    "data" : {
+      "templateId" : "V0126_MOVE_HORN_ATTACK",
+      "move" : {
+        "movementId" : "HORN_ATTACK",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 40,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 1850,
+        "damageWindowStartMs" : 800,
+        "damageWindowEndMs" : 1650,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0127_MOVE_STOMP",
+    "data" : {
+      "templateId" : "V0127_MOVE_STOMP",
+      "move" : {
+        "movementId" : "STOMP",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 55,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1100,
+        "damageWindowEndMs" : 1500,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0129_MOVE_HYPER_FANG",
+    "data" : {
+      "templateId" : "V0129_MOVE_HYPER_FANG",
+      "move" : {
+        "movementId" : "HYPER_FANG",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 2500,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0131_MOVE_BODY_SLAM",
+    "data" : {
+      "templateId" : "V0131_MOVE_BODY_SLAM",
+      "move" : {
+        "movementId" : "BODY_SLAM",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.085,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 1700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0132_MOVE_REST",
+    "data" : {
+      "templateId" : "V0132_MOVE_REST",
+      "move" : {
+        "movementId" : "REST",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "healScalar" : 1,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 1700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0134_MOVE_SCALD_BLASTOISE",
+    "data" : {
+      "templateId" : "V0134_MOVE_SCALD_BLASTOISE",
+      "move" : {
+        "movementId" : "SCALD_BLASTOISE",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.08,
+        "durationMs" : 4700,
+        "damageWindowStartMs" : 2500,
+        "damageWindowEndMs" : 4600,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0135_MOVE_HYDRO_PUMP_BLASTOISE",
+    "data" : {
+      "templateId" : "V0135_MOVE_HYDRO_PUMP_BLASTOISE",
+      "move" : {
+        "movementId" : "HYDRO_PUMP_BLASTOISE",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.11,
+        "durationMs" : 4500,
+        "damageWindowStartMs" : 2200,
+        "damageWindowEndMs" : 4300,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0136_MOVE_WRAP_GREEN",
+    "data" : {
+      "templateId" : "V0136_MOVE_WRAP_GREEN",
+      "move" : {
+        "movementId" : "WRAP_GREEN",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 25,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 2050,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0137_MOVE_WRAP_PINK",
+    "data" : {
+      "templateId" : "V0137_MOVE_WRAP_PINK",
+      "move" : {
+        "movementId" : "WRAP_PINK",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 25,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.06,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 2050,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0245_MOVE_CLOSE_COMBAT",
+    "data" : {
+      "templateId" : "V0245_MOVE_CLOSE_COMBAT",
+      "move" : {
+        "movementId" : "CLOSE_COMBAT",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 2300,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0246_MOVE_DYNAMIC_PUNCH",
+    "data" : {
+      "templateId" : "V0246_MOVE_DYNAMIC_PUNCH",
+      "move" : {
+        "movementId" : "DYNAMIC_PUNCH",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0247_MOVE_FOCUS_BLAST",
+    "data" : {
+      "templateId" : "V0247_MOVE_FOCUS_BLAST",
+      "move" : {
+        "movementId" : "FOCUS_BLAST",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 140,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3500,
+        "damageWindowStartMs" : 3000,
+        "damageWindowEndMs" : 3500,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0248_MOVE_AURORA_BEAM",
+    "data" : {
+      "templateId" : "V0248_MOVE_AURORA_BEAM",
+      "move" : {
+        "movementId" : "AURORA_BEAM",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3550,
+        "damageWindowStartMs" : 3350,
+        "damageWindowEndMs" : 3550,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0251_MOVE_WILD_CHARGE",
+    "data" : {
+      "templateId" : "V0251_MOVE_WILD_CHARGE",
+      "move" : {
+        "movementId" : "WILD_CHARGE",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0252_MOVE_ZAP_CANNON",
+    "data" : {
+      "templateId" : "V0252_MOVE_ZAP_CANNON",
+      "move" : {
+        "movementId" : "ZAP_CANNON",
+        "pokemonType" : "POKEMON_TYPE_ELECTRIC",
+        "power" : 140,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3700,
+        "damageWindowStartMs" : 3000,
+        "damageWindowEndMs" : 3500,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0254_MOVE_AVALANCHE",
+    "data" : {
+      "templateId" : "V0254_MOVE_AVALANCHE",
+      "move" : {
+        "movementId" : "AVALANCHE",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2100,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0256_MOVE_BRAVE_BIRD",
+    "data" : {
+      "templateId" : "V0256_MOVE_BRAVE_BIRD",
+      "move" : {
+        "movementId" : "BRAVE_BIRD",
+        "pokemonType" : "POKEMON_TYPE_FLYING",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2000,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0257_MOVE_SKY_ATTACK",
+    "data" : {
+      "templateId" : "V0257_MOVE_SKY_ATTACK",
+      "move" : {
+        "movementId" : "SKY_ATTACK",
+        "pokemonType" : "POKEMON_TYPE_FLYING",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2000,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 1700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0258_MOVE_SAND_TOMB",
+    "data" : {
+      "templateId" : "V0258_MOVE_SAND_TOMB",
+      "move" : {
+        "movementId" : "SAND_TOMB",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 4000,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 4000,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0259_MOVE_ROCK_BLAST",
+    "data" : {
+      "templateId" : "V0259_MOVE_ROCK_BLAST",
+      "move" : {
+        "movementId" : "ROCK_BLAST",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2100,
+        "damageWindowStartMs" : 1600,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0262_MOVE_SILVER_WIND",
+    "data" : {
+      "templateId" : "V0262_MOVE_SILVER_WIND",
+      "move" : {
+        "movementId" : "SILVER_WIND",
+        "pokemonType" : "POKEMON_TYPE_BUG",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3700,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 3500,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0265_MOVE_NIGHT_SHADE",
+    "data" : {
+      "templateId" : "V0265_MOVE_NIGHT_SHADE",
+      "move" : {
+        "movementId" : "NIGHT_SHADE",
+        "pokemonType" : "POKEMON_TYPE_GHOST",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 2100,
+        "damageWindowEndMs" : 2500,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0267_MOVE_GYRO_BALL",
+    "data" : {
+      "templateId" : "V0267_MOVE_GYRO_BALL",
+      "move" : {
+        "movementId" : "GYRO_BALL",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3300,
+        "damageWindowStartMs" : 3000,
+        "damageWindowEndMs" : 3300,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0268_MOVE_HEAVY_SLAM",
+    "data" : {
+      "templateId" : "V0268_MOVE_HEAVY_SLAM",
+      "move" : {
+        "movementId" : "HEAVY_SLAM",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2100,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0270_MOVE_OVERHEAT",
+    "data" : {
+      "templateId" : "V0270_MOVE_OVERHEAT",
+      "move" : {
+        "movementId" : "OVERHEAT",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 160,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 4000,
+        "damageWindowStartMs" : 2600,
+        "damageWindowEndMs" : 3800,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0272_MOVE_GRASS_KNOT",
+    "data" : {
+      "templateId" : "V0272_MOVE_GRASS_KNOT",
+      "move" : {
+        "movementId" : "GRASS_KNOT",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0273_MOVE_ENERGY_BALL",
+    "data" : {
+      "templateId" : "V0273_MOVE_ENERGY_BALL",
+      "move" : {
+        "movementId" : "ENERGY_BALL",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3900,
+        "damageWindowStartMs" : 3000,
+        "damageWindowEndMs" : 3800,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0275_MOVE_FUTURESIGHT",
+    "data" : {
+      "templateId" : "V0275_MOVE_FUTURESIGHT",
+      "move" : {
+        "movementId" : "FUTURESIGHT",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 120,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2700,
+        "damageWindowStartMs" : 1400,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0276_MOVE_MIRROR_COAT",
+    "data" : {
+      "templateId" : "V0276_MOVE_MIRROR_COAT",
+      "move" : {
+        "movementId" : "MIRROR_COAT",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 2300,
+        "damageWindowEndMs" : 2500,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0277_MOVE_OUTRAGE",
+    "data" : {
+      "templateId" : "V0277_MOVE_OUTRAGE",
+      "move" : {
+        "movementId" : "OUTRAGE",
+        "pokemonType" : "POKEMON_TYPE_DRAGON",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3900,
+        "damageWindowStartMs" : 2500,
+        "damageWindowEndMs" : 3700,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0279_MOVE_CRUNCH",
+    "data" : {
+      "templateId" : "V0279_MOVE_CRUNCH",
+      "move" : {
+        "movementId" : "CRUNCH",
+        "pokemonType" : "POKEMON_TYPE_DARK",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 3200,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 3000,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0280_MOVE_FOUL_PLAY",
+    "data" : {
+      "templateId" : "V0280_MOVE_FOUL_PLAY",
+      "move" : {
+        "movementId" : "FOUL_PLAY",
+        "pokemonType" : "POKEMON_TYPE_DARK",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.04,
+        "durationMs" : 2000,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0284_MOVE_SURF",
+    "data" : {
+      "templateId" : "V0284_MOVE_SURF",
+      "move" : {
+        "movementId" : "SURF",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 65,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1400,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0285_MOVE_DRACO_METEOR",
+    "data" : {
+      "templateId" : "V0285_MOVE_DRACO_METEOR",
+      "move" : {
+        "movementId" : "DRACO_METEOR",
+        "pokemonType" : "POKEMON_TYPE_DRAGON",
+        "power" : 150,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3600,
+        "damageWindowStartMs" : 3000,
+        "damageWindowEndMs" : 3500,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0286_MOVE_DOOM_DESIRE",
+    "data" : {
+      "templateId" : "V0286_MOVE_DOOM_DESIRE",
+      "move" : {
+        "movementId" : "DOOM_DESIRE",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1400,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0288_MOVE_PSYCHO_BOOST",
+    "data" : {
+      "templateId" : "V0288_MOVE_PSYCHO_BOOST",
+      "move" : {
+        "movementId" : "PSYCHO_BOOST",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 70,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 4000,
+        "damageWindowStartMs" : 3500,
+        "damageWindowEndMs" : 4000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0289_MOVE_ORIGIN_PULSE",
+    "data" : {
+      "templateId" : "V0289_MOVE_ORIGIN_PULSE",
+      "move" : {
+        "movementId" : "ORIGIN_PULSE",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1400,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0290_MOVE_PRECIPICE_BLADES",
+    "data" : {
+      "templateId" : "V0290_MOVE_PRECIPICE_BLADES",
+      "move" : {
+        "movementId" : "PRECIPICE_BLADES",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1700,
+        "damageWindowStartMs" : 1400,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0291_MOVE_PRESENT_FAST",
+    "data" : {
+      "templateId" : "V0291_MOVE_PRESENT_FAST",
+      "move" : {
+        "movementId" : "PRESENT_FAST",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 5,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1300,
+        "damageWindowStartMs" : 1100,
+        "damageWindowEndMs" : 1300,
+        "energyDelta" : 20
+      }
+    }
+  },
+  {
+    "templateId" : "V0292_MOVE_WEATHER_BALL_FIRE",
+    "data" : {
+      "templateId" : "V0292_MOVE_WEATHER_BALL_FIRE",
+      "move" : {
+        "movementId" : "WEATHER_BALL_FIRE",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 1350,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0293_MOVE_WEATHER_BALL_ICE",
+    "data" : {
+      "templateId" : "V0293_MOVE_WEATHER_BALL_ICE",
+      "move" : {
+        "movementId" : "WEATHER_BALL_ICE",
+        "pokemonType" : "POKEMON_TYPE_ICE",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 1350,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0294_MOVE_WEATHER_BALL_ROCK",
+    "data" : {
+      "templateId" : "V0294_MOVE_WEATHER_BALL_ROCK",
+      "move" : {
+        "movementId" : "WEATHER_BALL_ROCK",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 1350,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0295_MOVE_WEATHER_BALL_WATER",
+    "data" : {
+      "templateId" : "V0295_MOVE_WEATHER_BALL_WATER",
+      "move" : {
+        "movementId" : "WEATHER_BALL_WATER",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 60,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1600,
+        "damageWindowStartMs" : 1350,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0296_MOVE_FRENZY_PLANT",
+    "data" : {
+      "templateId" : "V0296_MOVE_FRENZY_PLANT",
+      "move" : {
+        "movementId" : "FRENZY_PLANT",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 2145,
+        "damageWindowEndMs" : 2550,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0298_MOVE_BLAST_BURN",
+    "data" : {
+      "templateId" : "V0298_MOVE_BLAST_BURN",
+      "move" : {
+        "movementId" : "BLAST_BURN",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3300,
+        "damageWindowStartMs" : 2750,
+        "damageWindowEndMs" : 3200,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0299_MOVE_HYDRO_CANNON",
+    "data" : {
+      "templateId" : "V0299_MOVE_HYDRO_CANNON",
+      "move" : {
+        "movementId" : "HYDRO_CANNON",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 500,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0300_MOVE_LAST_RESORT",
+    "data" : {
+      "templateId" : "V0300_MOVE_LAST_RESORT",
+      "move" : {
+        "movementId" : "LAST_RESORT",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 2900,
+        "damageWindowStartMs" : 2700,
+        "damageWindowEndMs" : 2850,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0301_MOVE_METEOR_MASH",
+    "data" : {
+      "templateId" : "V0301_MOVE_METEOR_MASH",
+      "move" : {
+        "movementId" : "METEOR_MASH",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "criticalChance" : 0.05,
+        "staminaLossScalar" : 0.065,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 2300,
+        "damageWindowEndMs" : 2500,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0302_MOVE_SKULL_BASH",
+    "data" : {
+      "templateId" : "V0302_MOVE_SKULL_BASH",
+      "move" : {
+        "movementId" : "SKULL_BASH",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 130,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3100,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2300,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0303_MOVE_ACID_SPRAY",
+    "data" : {
+      "templateId" : "V0303_MOVE_ACID_SPRAY",
+      "move" : {
+        "movementId" : "ACID_SPRAY",
+        "pokemonType" : "POKEMON_TYPE_POISON",
+        "power" : 20,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3000,
+        "damageWindowStartMs" : 2100,
+        "damageWindowEndMs" : 2800,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0304_MOVE_EARTH_POWER",
+    "data" : {
+      "templateId" : "V0304_MOVE_EARTH_POWER",
+      "move" : {
+        "movementId" : "EARTH_POWER",
+        "pokemonType" : "POKEMON_TYPE_GROUND",
+        "power" : 100,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3600,
+        "damageWindowStartMs" : 2700,
+        "damageWindowEndMs" : 3400,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0305_MOVE_CRABHAMMER",
+    "data" : {
+      "templateId" : "V0305_MOVE_CRABHAMMER",
+      "move" : {
+        "movementId" : "CRABHAMMER",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 85,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1900,
+        "damageWindowStartMs" : 1500,
+        "damageWindowEndMs" : 1750,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0308_MOVE_OCTAZOOKA",
+    "data" : {
+      "templateId" : "V0308_MOVE_OCTAZOOKA",
+      "move" : {
+        "movementId" : "OCTAZOOKA",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1300,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0309_MOVE_MIRROR_SHOT",
+    "data" : {
+      "templateId" : "V0309_MOVE_MIRROR_SHOT",
+      "move" : {
+        "movementId" : "MIRROR_SHOT",
+        "pokemonType" : "POKEMON_TYPE_STEEL",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2400,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2200,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0310_MOVE_SUPER_POWER",
+    "data" : {
+      "templateId" : "V0310_MOVE_SUPER_POWER",
+      "move" : {
+        "movementId" : "SUPER_POWER",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 85,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3000,
+        "damageWindowStartMs" : 2100,
+        "damageWindowEndMs" : 2800,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0311_MOVE_FELL_STINGER",
+    "data" : {
+      "templateId" : "V0311_MOVE_FELL_STINGER",
+      "move" : {
+        "movementId" : "FELL_STINGER",
+        "pokemonType" : "POKEMON_TYPE_BUG",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1800,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0312_MOVE_LEAF_TORNADO",
+    "data" : {
+      "templateId" : "V0312_MOVE_LEAF_TORNADO",
+      "move" : {
+        "movementId" : "LEAF_TORNADO",
+        "pokemonType" : "POKEMON_TYPE_GRASS",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3100,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 2600,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0316_MOVE_MUDDY_WATER",
+    "data" : {
+      "templateId" : "V0316_MOVE_MUDDY_WATER",
+      "move" : {
+        "movementId" : "MUDDY_WATER",
+        "pokemonType" : "POKEMON_TYPE_WATER",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2200,
+        "damageWindowStartMs" : 1200,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0317_MOVE_BLAZE_KICK",
+    "data" : {
+      "templateId" : "V0317_MOVE_BLAZE_KICK",
+      "move" : {
+        "movementId" : "BLAZE_KICK",
+        "pokemonType" : "POKEMON_TYPE_FIRE",
+        "power" : 45,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1200,
+        "damageWindowStartMs" : 450,
+        "damageWindowEndMs" : 800,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0319_MOVE_POWER_UP_PUNCH",
+    "data" : {
+      "templateId" : "V0319_MOVE_POWER_UP_PUNCH",
+      "move" : {
+        "movementId" : "POWER_UP_PUNCH",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 50,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2000,
+        "damageWindowStartMs" : 1700,
+        "damageWindowEndMs" : 1900,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0321_MOVE_GIGA_IMPACT",
+    "data" : {
+      "templateId" : "V0321_MOVE_GIGA_IMPACT",
+      "move" : {
+        "movementId" : "GIGA_IMPACT",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 200,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 4700,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 2400,
+        "energyDelta" : -100
+      }
+    }
+  },
+  {
+    "templateId" : "V0322_MOVE_FRUSTRATION",
+    "data" : {
+      "templateId" : "V0322_MOVE_FRUSTRATION",
+      "move" : {
+        "movementId" : "FRUSTRATION",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 10,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2000,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 1800,
+        "energyDelta" : -33,
+        "isLocked" : true
+      }
+    }
+  },
+  {
+    "templateId" : "V0323_MOVE_RETURN",
+    "data" : {
+      "templateId" : "V0323_MOVE_RETURN",
+      "move" : {
+        "movementId" : "RETURN",
+        "pokemonType" : "POKEMON_TYPE_NORMAL",
+        "power" : 35,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 700,
+        "damageWindowStartMs" : 100,
+        "damageWindowEndMs" : 350,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0324_MOVE_SYNCHRONOISE",
+    "data" : {
+      "templateId" : "V0324_MOVE_SYNCHRONOISE",
+      "move" : {
+        "movementId" : "SYNCHRONOISE",
+        "pokemonType" : "POKEMON_TYPE_PSYCHIC",
+        "power" : 80,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2600,
+        "damageWindowStartMs" : 850,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0330_MOVE_SACRED_SWORD",
+    "data" : {
+      "templateId" : "V0330_MOVE_SACRED_SWORD",
+      "move" : {
+        "movementId" : "SACRED_SWORD",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 55,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1200,
+        "damageWindowStartMs" : 500,
+        "damageWindowEndMs" : 1000,
+        "energyDelta" : -33
+      }
+    }
+  },
+  {
+    "templateId" : "V0331_MOVE_FLYING_PRESS",
+    "data" : {
+      "templateId" : "V0331_MOVE_FLYING_PRESS",
+      "move" : {
+        "movementId" : "FLYING_PRESS",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 2300,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 2000,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0332_MOVE_AURA_SPHERE",
+    "data" : {
+      "templateId" : "V0332_MOVE_AURA_SPHERE",
+      "move" : {
+        "movementId" : "AURA_SPHERE",
+        "pokemonType" : "POKEMON_TYPE_FIGHTING",
+        "power" : 90,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 1800,
+        "damageWindowStartMs" : 1000,
+        "damageWindowEndMs" : 1600,
+        "energyDelta" : -50
+      }
+    }
+  },
+  {
+    "templateId" : "V0334_MOVE_ROCK_WRECKER",
+    "data" : {
+      "templateId" : "V0334_MOVE_ROCK_WRECKER",
+      "move" : {
+        "movementId" : "ROCK_WRECKER",
+        "pokemonType" : "POKEMON_TYPE_ROCK",
+        "power" : 110,
+        "accuracyChance" : 1,
+        "staminaLossScalar" : 0.01,
+        "durationMs" : 3600,
+        "damageWindowStartMs" : 2000,
+        "damageWindowEndMs" : 2700,
+        "energyDelta" : -50
+      }
+    }
+  }
+]
